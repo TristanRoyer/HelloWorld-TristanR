@@ -35,4 +35,4 @@ textObject:setFillColor (1, 1, 0)
 local textObjectSignature
 
 --sign my name 
-textObjectSignature = display.newText ("By Tristan", display.contentCenterX, display.contentCenterX, nil, 56)
+textObjectSignature = display.newText ("By Tristann", display.contentCenterX, display.contentCenterX, nil, 56)
