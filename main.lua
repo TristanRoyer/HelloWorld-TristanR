@@ -37,13 +37,9 @@ local textObjectSignature
 --sign my name 
 textObjectSignature = display.newText ("By Tristann", display.contentCenterX, display.contentCenterX, nil, 56)
 
--- Sound variables
+-- Adds sound
 local FreeMusic = audio.loadSound("Sounds/bensound-littleidea.mp3")
-
--- Setting a variable to an mp3 file 
 local FreeMusicChannel
-
--- plays the sound
 FreeMusicChannel = audio.play(FreeMusic)
 
 
